@@ -27,6 +27,8 @@ sonucu resim olarak gosterir.
 Fotoğrafı kodla aynı klasöre koymayı unutmayın
 
  Bir hata varsa lütfen benimle iletişime geçin
+ 
+ [İletişim](mailto:stgytb34@gmail.com)
 
 # EN
 
@@ -57,3 +59,6 @@ displays the result as a picture.
 Don't forget to put the photo in the same folder as the code
 
  Please contact me if there is an error
+ 
+ [Send me an E-mail](mailto:stgytb34@gmail.com)
+
