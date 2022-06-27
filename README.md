@@ -1,7 +1,6 @@
-# Python-Photo-Editor
+# Python Photo Editor
 
-TR
-Merhaba,
+Merhaba
 Bu projede Python kutuphaneleri kullanarak bir fotoğraf üzerinde bazı işlemlerin yapılması
 amaçlanmıştır. Projeyi yapabilmek için öncelikle bir resmin bilgisayarda
 nasil kaydedildigini anlamamız gerekmektedir. Özetle bir resim bilgisayarda 3 boyutlu
@@ -29,7 +28,7 @@ Fotoğrafı kodla aynı klasöre koymayı unutmayın
 
  Bir hata varsa lütfen benimle iletişime geçin
 
-EN
+# EN
 
 Hi 
 In this project, some manipulations on a photo using Python libraries
