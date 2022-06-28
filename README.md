@@ -12,10 +12,10 @@ saklanir.
 
 Fotoğraf editörü bir döngü içinde çalışıyor Program akışı şu şekildedir
 
-1- Resim yukleyin
-2- Resmi siyah ve beyaz hale çevirin
-3- Resmi kirpin
-4- Resmi yatay dondurun
+1- <b>Resim yukleyin</b><br>
+2- <b>Resmi siyah ve beyaz hale çevirin</b><br>
+3- <b>Resmi kirpin</b><br>
+4- <b>Resmi yatay dondurun</b><br>
 Seciminizi giriniz: 1
 Resim dosyasinin ismini giriniz: foto.jpg
 foto.jpg yüklendi
@@ -44,10 +44,10 @@ is stored.
 
 The photo editor works in a loop The program flow is as follows
 
-1- Upload a picture
-2- Convert the picture to black and white
-3- Clip the picture
-4- Freeze the image horizontally
+1- <b>Upload a picture</b><br>
+2- <b>Convert the picture to black and white</b><br>
+3- <b>Clip the picture</b><br>
+4- <b>Freeze the image horizontally</b><br>
 Enter your choice: 1
 Enter the name of the image file: foto.jpg
 foto.jpg uploaded
