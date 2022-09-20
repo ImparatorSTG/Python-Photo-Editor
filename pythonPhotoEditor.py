@@ -18,9 +18,6 @@ def renk_degisimi():
 def kirpma():
     x1=int(input("x1 değerini giriniz: "))
     
- 
-    
-
 def terscevir():
     tersfoto = pic.copy()
     tersfotos=tersfoto[::-1]
